@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T10:55:43.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="6XtkxBItGIAkM2NhI5f5" version="13.6.2" type="github"><diagram id="wpKSmB2_X_wMgjodExo3" name="Page-1">ddG9DoIwEADgp+kOrRGcEXVxYnBu6EmbFI6UGtCnF3IgNujSXL+79vrDRFYPZydbfUUFlvFIDUwcGedJysdxgifBTiQElTOKKF6hMC+YMZr1YRR0QaFHtN60IZbYNFD6wKRz2Idld7Rh11ZWsIGilHarN6O8Jk15svoFTKWXzvH+QJlaLsXzTTotFfZfJHImMofoKaqHDOz0dsu70LrTn+znYA4a/2PBGKx7j5Pgg0T+Bg==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-15T11:03:57.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="h-klQaJ40dhJ2JgfCty8" version="13.6.2" type="github">
+  <diagram id="wpKSmB2_X_wMgjodExo3" name="Page-1">
+    <mxGraphModel dx="539" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="440" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="440" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-3" value="tab1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-4" value="tab2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-7" value="step 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-8" value="button 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="125" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-9" value="step 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-10" value="button 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="215" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-11" value="step 1 status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-12" value="step 2 status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-13" value="general operational status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="23" width="157" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-14" value="general requested &lt;br&gt;data output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="58" width="157" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-16" value="project name picker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="247.5" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="155" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-18" value="project name picker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="247.5" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="272.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-20" value="project name picker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-21" value="user requested data input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YY87dvhip_EOPaoHG3Qe-22" value="fetch data&lt;br&gt;bttn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
