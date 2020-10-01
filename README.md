@@ -1,2 +1,1 @@
-# L2_test_tool_concept_schema
-For L2 Test Tool
+https://github.com/nltrgy/L2_test_tool_concept_schema/wiki
